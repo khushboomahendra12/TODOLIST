@@ -1,2 +1,2 @@
-# TODOLIST
-this is todo list
+# todo-project
+this is my first project
